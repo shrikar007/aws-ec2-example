@@ -1,0 +1,5 @@
+main
+config.toml
+go.mod
+vendor
+go.sum
